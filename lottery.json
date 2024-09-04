@@ -1,0 +1,45 @@
+{
+    "tickets": [
+        {
+            "number": 1,
+            "price": 58111571
+        },
+        {
+            "number": 2,
+            "price": 75805661
+        },
+        {
+            "number": 3,
+            "price": 80910562
+        },
+        {
+            "number": 4,
+            "price": 48407767
+        },
+        {
+            "number": 5,
+            "price": 57508228
+        },
+        {
+            "number": 6,
+            "price": 49015056
+        },
+        {
+            "number": 7,
+            "price": 98109695
+        },
+        {
+            "number": 8,
+            "price": 77426284
+        },
+        {
+            "number": 9,
+            "price": 89402403
+        },
+        {
+            "number": 10,
+            "price": 55791506
+        }
+    ],
+    "participants": {}
+}

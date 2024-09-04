@@ -1,0 +1,26 @@
+{
+    "Puppy": {
+        "reward": 290000,
+        "redeemed": false
+    },
+    "L": {
+        "reward": 10000000,
+        "redeemed": false
+    },
+    "LUCKY2024": {
+        "reward": 7500000,
+        "redeemed": false
+    },
+    "NEWYEAR2024": {
+        "reward": 12000000,
+        "redeemed": false
+    },
+    "HAPPYDAY": {
+        "reward": 3000000,
+        "redeemed": false
+    },
+    "NGUYỄN HOÀNG GAY ?": {
+        "reward": 15000000,
+        "redeemed": false
+    }
+}

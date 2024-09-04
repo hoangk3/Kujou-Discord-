@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Anh Ba",
+        "rarity": "Common",
+        "value": 4000000,
+        "drop_rate": 70,
+        "image_url": "https://i.pinimg.com/564x/c2/fa/17/c2fa17ead20c29a60d07220df8d0cd09.jpg"
+    },
+    {
+        "name": "keo dua",
+        "rarity": "Common",
+        "value": 3000000,
+        "drop_rate": 85,
+        "image_url": "https://i.pinimg.com/564x/0e/e4/f9/0ee4f9592f5958062a99832b76c00c2f.jpg"
+    },
+    {
+        "name": "Cat",
+        "rarity": "Common",
+        "value": 2000000,
+        "drop_rate": 85,
+        "image_url": "https://i.pinimg.com/736x/58/fd/de/58fdde8cbc17d77bb8d68719b61e94f3.jpg"
+    },
+    {
+        "name": "shikimori",
+        "rarity": "Uncommon",
+        "value": 30000000,
+        "drop_rate": 5,
+        "image_url": "https://i.pinimg.com/564x/f4/ba/7b/f4ba7b8e9c6e10f083235f6a3c657160.jpg"
+    },
+    {
+        "name": "Masha",
+        "rarity": "Uncommon",
+        "value": 20000000,
+        "drop_rate": 5,
+        "image_url": "https://i.pinimg.com/736x/d8/08/2b/d8082b65e9dcafc4482c8db8fcdf4bd7.jpg"
+    },
+    {
+        "name": "Mai sakurajima",
+        "rarity": "Uncommon",
+        "value": 20000000,
+        "drop_rate": 10,
+        "image_url": "https://i.pinimg.com/564x/2a/6c/e7/2a6ce72723dbab69f61036ebd2e69ad0.jpg"
+    },
+    {
+        "name": "Azucat",
+        "rarity": "Uncommon",
+        "value": 20000000,
+        "drop_rate": 13,
+        "image_url": "https://i.pinimg.com/564x/02/da/9a/02da9a6c408d4f98bbba8a6cbf850dc5.jpg"
+    },
+    {
+        "name": "Ryo Like",
+        "rarity": "Uncommon",
+        "value": 13000000,
+        "drop_rate": 12,
+        "image_url": "https://i.pinimg.com/564x/80/69/93/80699363fed0df68ad9688e3728e21bc.jpg"
+    },
+    {
+        "name": "Cat Cooking",
+        "rarity": "Rare",
+        "value": 30000000,
+        "drop_rate": 10,
+        "image_url": "https://i.pinimg.com/564x/7f/a7/9f/7fa79fd7288bd6aa5ba4ccd7e177100d.jpg"
+    },
+    {
+        "name": "Bocchi Snocking",
+        "rarity": "Rare",
+        "value": 32000000,
+        "drop_rate": 10,
+        "image_url": "https://i.pinimg.com/564x/bf/c9/bc/bfc9bc2f3a3b63647b09e8e3997d3c1e.jpg"
+    },
+    {
+        "name": "cat mewing",
+        "rarity": "Rare",
+        "value": 3400000,
+        "drop_rate": 45,
+        "image_url": "https://i.pinimg.com/736x/7e/9c/8d/7e9c8dddcc0490592018416f2763f9a8.jpg"
+    },
+    {
+        "name": "silly cat",
+        "rarity": "Rare",
+        "value": 3600000,
+        "drop_rate": 11,
+        "image_url": "https://i.pinimg.com/736x/ef/aa/85/efaa85262c2979c0bce49d0dc643d49e.jpg"
+    },
+    {
+        "name": "Genie cat",
+        "rarity": "Epic",
+        "value": 50000000,
+        "drop_rate": 8,
+        "image_url": "https://i.pinimg.com/564x/5c/13/ab/5c13ab08a3c0454d016b90ecce7d794b.jpg"
+    },
+    {
+        "name": "Elaina",
+        "rarity": "Epic",
+        "value": 52000000,
+        "drop_rate": 5.5,
+        "image_url": "https://i.pinimg.com/564x/e2/97/f3/e297f3ff68659a1f38c05e626e6c78d2.jpg"
+    },
+    {
+        "name": "chac cung la gai animi",
+        "rarity": "Epic",
+        "value": 54000000,
+        "drop_rate": 4.3,
+        "image_url": "https://i.pinimg.com/564x/4a/70/4a/4a704a00c6e49873b9d51896982baf46.jpg"
+    },
+    {
+        "name": "Rem",
+        "rarity": "Epic",
+        "value": 160000000,
+        "drop_rate": 2.8,
+        "image_url": "https://i.pinimg.com/564x/7d/55/a2/7d55a2628e630451df083a392c691177.jpg"
+    },
+    {
+        "name": "Futaba",
+        "rarity": "Legendary",
+        "value": 100000000,
+        "drop_rate": 4.5,
+        "image_url": "https://i.pinimg.com/564x/86/8d/1f/868d1f92aec8e334362b9bb9afc56280.jpg"
+    },
+    {
+        "name": "Rika",
+        "rarity": "Legendary",
+        "value": 210000000,
+        "drop_rate": 6.5,
+        "image_url": "https://i.pinimg.com/564x/28/5a/19/285a193579d1781cfb594e1ba21b1b19.jpg"
+    },
+    {
+        "name": "Gai Nga",
+        "rarity": "Legendary",
+        "value": 220000000,
+        "drop_rate": 2.2,
+        "image_url": "https://i.pinimg.com/736x/4b/b8/b0/4bb8b04853bfd965eee0683172a76339.jpg"
+    },
+    {
+        "name": "Kurokawa",
+        "rarity": "Legendary",
+        "value": 450000000,
+        "drop_rate": 2.8,
+        "image_url": "https://i.pinimg.com/736x/96/a0/cf/96a0cf81ef1498a8b79054e0b6d3ffab.jpg"
+    },
+    {
+        "name": "Nakano",
+        "rarity": "Mythic",
+        "value": 150000000,
+        "drop_rate": 2,
+        "image_url": "https://i.pinimg.com/564x/9f/1d/d1/9f1dd1098f987e36dcb54238de6911bb.jpg"
+    },
+    {
+        "name": "Boc chi",
+        "rarity": "Mythic",
+        "value": 300000000,
+        "drop_rate": 1.8,
+        "image_url": "https://i.pinimg.com/564x/76/38/8a/76388aeba57dd60c5f81ebbb080f73e5.jpg"
+    },
+    {
+        "name": "Yui",
+        "rarity": "Mythic",
+        "value": 200000000,
+        "drop_rate": 2.5,
+        "image_url": "https://i.pinimg.com/564x/c0/be/b3/c0beb3d1ed678c0a5d3fa6a99cf75032.jpg"
+    },
+    {
+        "name": "Kuriyama Mirai",
+        "rarity": "Mythic",
+        "value": 1200000000,
+        "drop_rate": 0.01,
+        "image_url": "https://i.pinimg.com/564x/f5/4e/3c/f54e3c0f42a37b56c8009c2dbd8fd443.jpg"
+    },
+    {
+        "name": "Hung Nigbel",
+        "rarity": "Mythic",
+        "value": 100000000,
+        "drop_rate": 0.01,
+        "image_url": "https://i.pinimg.com/736x/90/94/70/909470a84b1c325d73296d60e735303f.jpg"
+    }
+]
